@@ -1,4 +1,4 @@
-import Layout from './dashboard/layout';
+import Layout from './dashboard/Layout';
 
 function App() {
   return (
