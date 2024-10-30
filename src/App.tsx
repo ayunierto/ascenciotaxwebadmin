@@ -1,11 +1,9 @@
-import { Button } from './components/ui/button';
+import Layout from './dashboard/layout';
 
 function App() {
   return (
     <>
-      <div className='flex h-screen items-center justify-center'>
-        <Button>Hi, world</Button>
-      </div>
+      <Layout></Layout>
     </>
   );
 }
